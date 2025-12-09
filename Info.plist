@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>BGTaskSchedulerPermittedIdentifiers</key>
+    <array>
+        <string>uk.ac.cam.cst.sn17.BGTasks.refresh</string>
+        <string>uk.ac.cam.cst.sn17.BGTasks.processing.0</string>
+        <string>uk.ac.cam.cst.sn17.BGTasks.processing.1</string>
+        <string>uk.ac.cam.cst.sn17.BGTasks.processing.2</string>
+    </array>
+    <key>UIBackgroundModes</key>
+    <array>
+        <string>fetch</string>
+        <string>processing</string>
+        <string>remote-notification</string>
+    </array>
+</dict>
+</plist>
